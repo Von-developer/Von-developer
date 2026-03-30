@@ -1,4 +1,4 @@
-#👋 Hi, I'm Savon Mctair 
+# 👋 Hi, I'm Savon Mctair 
 
 🚀 Aspiring AI Engineer/ Software Developer 
 💻 Languages: C++, Python
