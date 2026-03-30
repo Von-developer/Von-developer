@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Savon Mctair 
+👋 Hi, I'm Savon Mctair 
 
 🚀 Aspiring AI Engineer/ Software Developer 
 💻 Languages: C++, Python
-📍 Based in New York
+
 
 ---
 
-## 🧠 About Me
+ 🧠 About Me
 
 I'm a developer focused on building real-world AI systems and scalable software.
 I enjoy working on projects that combine **machine learning, backend systems, frontend systems, and problem-solving.
