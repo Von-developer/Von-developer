@@ -9,7 +9,7 @@
  🧠 About Me
 
 I'm a developer focused on building real-world AI systems and scalable software.
-I enjoy working on projects that combine **machine learning, backend systems, frontend systems, and problem-solving.
+I enjoy working on projects that combine machine learning, backend systems, frontend systems, and problem-solving.
 
 Currently, I’m:
 
